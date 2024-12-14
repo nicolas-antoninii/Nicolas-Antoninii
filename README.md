@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h2 align="left">Olá, sejam bem-vindos, meu nome é Nicolas! 🙋🏽‍♂️</h2>
+<h1 align="left">Olá, sejam bem-vindos, meu nome é Nicolas! 🙋🏽‍♂️</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">Meu nome é Nicolas e ou formado no curso técnico em Desenvolvimento de Sistemas pela ETEC (Escola Técnica de São Paulo) Professor Massuyuki Kawano. Desde cedo, a tecnologia é uma das minhas grandes paixões, e foi isso que me motivou a mergulhar no mundo do desenvolvimento web. 💻☕</p>
+<h3 align="right">Meu nome é Nicolas e ou formado no curso técnico em Desenvolvimento de Sistemas pela ETEC (Escola Técnica de São Paulo) Professor Massuyuki Kawano. Desde cedo, a tecnologia é uma das minhas grandes paixões, e foi isso que me motivou a mergulhar no mundo do desenvolvimento web. 💻☕</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<img align="right" height="160" src="https://media2.giphy.com/media/Hws7aKoFHS9gs/200w.gif?cid=6c09b952n8o8ttm4vi4x8xxfgf7exuhy3f8b15t3px6wccfh&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<img align="right" height="180" src="https://media2.giphy.com/media/Hws7aKoFHS9gs/200w.gif?cid=6c09b952n8o8ttm4vi4x8xxfgf7exuhy3f8b15t3px6wccfh&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
 ###
 
