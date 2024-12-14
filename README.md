@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="right">Meu nome é Nicolas e ou formado no curso técnico em Desenvolvimento de Sistemas pela ETEC (Escola Técnica de São Paulo) Professor Massuyuki Kawano. Desde cedo, a tecnologia é uma das minhas grandes paixões, e foi isso que me motivou a mergulhar no mundo do desenvolvimento web. 💻☕</h3>
+<h3 align="right">Meu nome é Nicolas, sou desenvolvedor Full Stack formado no curso técnico em Desenvolvimento de Sistemas pela ETEC (Escola Técnica de São Paulo) Professor Massuyuki Kawano. Desde cedo, a tecnologia é uma das minhas grandes paixões, e foi isso que me motivou a mergulhar no mundo do desenvolvimento web. 💻☕</h3>
 
 ###
 
