@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="left">Olá, sejam bem-vindos, meu nome é Nicolas! 🙋🏽‍♂️</h1>
+<h1 align="left">Olá, sejam bem-vindos! </h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="right">Sou desenvolvedor Full Stack formado no curso técnico em Desenvolvimento de Sistemas pela ETEC (Escola Técnica de São Paulo) Professor Massuyuki Kawano. 💻☕</h3>
+<h3 align="right">Nada de especial por aqui. 💻☕</h3>
 
 ###
 
